@@ -31,7 +31,3 @@ A Flask route serves the HTML form and processes the prediction requests. The us
 ## Future Scope
 
 This project can be scaled for mobile use, integrated with real-time weather APIs, or deployed via platforms like AWS or Netlify. More features like fertilizer suggestions or soil health tracking can also be added.
-
-## Author
-
-Developed by Balaji Manam. For collaboration or inquiries, contact: bmtech@gmail.com
